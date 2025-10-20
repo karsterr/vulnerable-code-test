@@ -1,0 +1,21 @@
+{
+  "name": "javascript-vulnerable-app",
+  "version": "1.0.0",
+  "description": "Intentionally vulnerable JavaScript application for security testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "node app.js --server"
+  },
+  "keywords": [
+    "vulnerable",
+    "security",
+    "testing",
+    "educational"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}

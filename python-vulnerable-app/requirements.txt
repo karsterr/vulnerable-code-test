@@ -1,0 +1,2 @@
+# This file is intentionally minimal as the app uses only standard library
+# No external dependencies required
